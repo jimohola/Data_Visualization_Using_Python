@@ -1,19 +1,19 @@
 # Data Analysis Using Python
 
-## Data Description:
+### Data Description:
 
 MovieLens data sets were collected by the GroupLens Research Projectat the University of Minnesota. [Data Source](https://grouplens.org/datasets/movielens/100k/)
 
-## Context
+### Context:
 
 The GroupLens Research Project is a research group in the Department of Computer Science and Engineering at the University of Minnesota.The data is widely used for collaborative filtering and other filtering solutions.
 
-## Objectives:
+### Objectives:
 
 - Exploratory Data Analysis
 - Visualization using Python
 
-## Steps and tasks
+### Steps and tasks:
 
 - Download and Extract the zip file [Here](https://grouplens.org/datasets/movielens/100k/) and you will find a folder named  ml-100k 
 - Go through the README file, you will find the information about the attributes of the three datasets
