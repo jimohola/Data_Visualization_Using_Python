@@ -11,7 +11,8 @@ The GroupLens Research Project is a research group in the Department of Computer
 ### Objectives:
 
 - Exploratory Data Analysis
-- Visualization using Python
+- Visualization using Python (Seaborn, Matplotlib)
+- Pandas
 
 ### Steps and tasks:
 
