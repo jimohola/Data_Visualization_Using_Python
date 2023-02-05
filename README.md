@@ -1,5 +1,3 @@
-# Data Analysis Using Python
-
 ### Data Description:
 
 MovieLens data sets were collected by the GroupLens Research Projectat the University of Minnesota. [Data Source](https://grouplens.org/datasets/movielens/100k/)
