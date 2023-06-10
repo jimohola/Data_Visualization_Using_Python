@@ -31,5 +31,5 @@ The GroupLens Research Project is a research group in the Department of Computer
     - Men watch more Romance than women
     - Women watch more Sci-Fi than men
 
-### Solution: [Visualization_using_pythton.ipynb](https://github.com/jimohola/Visualization_Using_Python/blob/50367f2c9ff5de57f3f7a1dbf75ca7b9f534558c/Visualization_using_python.ipynb)
+### Solution: [Here](Visualization_using_python.ipynb)
 
